@@ -7,3 +7,5 @@ document.getElementById('login-submit').addEventListener('click', ()=>{
     window.location.href = '../banking.html'
   }
 })
+
+
